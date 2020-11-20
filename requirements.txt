@@ -8,3 +8,4 @@ openpyxl==2.5.3
 pandas==0.23.0
 plotly==2.7.0
 python-slugify==1.2.5
+lxml
